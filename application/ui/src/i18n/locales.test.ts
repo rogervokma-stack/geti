@@ -49,6 +49,7 @@ describe('locale registry', () => {
             'fr',
             'id',
             'it',
+            'ja',
             'nl',
             'pl',
             'pt',
